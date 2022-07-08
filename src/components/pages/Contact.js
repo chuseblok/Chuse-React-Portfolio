@@ -2,9 +2,8 @@ import React from "react";
 
 export default function Contact() {
   return (
-    <div>
-      <h1>Contact Page</h1>
-      <p>Email: Sebastian.chunley@gmail.com</p>
+    <div id='box'>
+      <h3>Email: Sebastian.chunley@gmail.com</h3>
     </div>
   );
 }
